@@ -1,0 +1,14 @@
+.clearfix:after{
+	content:"";
+	display: block;
+	clear: both;
+}
+.db{
+	display: block;
+}
+.pr{
+	position:relative;
+}
+.pa{
+	position:absolute;
+}

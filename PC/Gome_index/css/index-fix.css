@@ -1,0 +1,487 @@
+.clearfix{
+	zoom:1;
+}
+.gome_main{
+	width:1200px;
+	padding-left:74.5px;
+}
+.body{
+	position:relative;
+	background-attachment:fixed;
+	background-image: url(about:blank);
+	font-family:"微软雅黑";
+	overflow:hidden;
+}
+.container{
+	overflow:hidden;
+}
+.gome_logo{
+	display:inline;
+	zoom:1;
+}
+.triangle{
+	padding:10px 0 0 6px;
+	margin-left:-7px;
+}
+.imgtriangle{
+	margin-left:-6px;
+}
+.gome_head_left a, .gome_head_right a{
+	line-height:36px;
+}
+.gome_head_right .mobile, .gome_head_right .service{
+	padding-top:2px;
+}
+.gome_head_right .line{
+	font-size:8px;
+	float:left;
+	width:1px;
+	background-color:#e6e6e6;
+	margin:10px 10px 0 0;
+}
+.sidebar{
+	position:absolute;
+	bottom:auto;
+	top:expression(eval(document.documentElement.scrollTop));
+}
+.mobile .imgtriangle{
+	padding-top:6px;
+}
+.service .imgtriangle{
+	padding-top:7px;
+}
+.gome_head_right .net{
+	margin-left:4px;
+}
+.second .service{
+	padding-top:3px;
+}
+.gome_head_right .my_gome{
+	margin-left:13px;
+}
+.search_text .topsearch_button{
+	line-height:21px;
+	font-weight:bold;
+	margin-top:12px;
+	height:25px;
+	padding: 9px 19px 0 15px;
+}
+.topsearch{
+	display:inline;
+	margin-top:-1px;
+	zoom:1;
+	width:500px;
+}
+.gome_logo .search{
+	line-height:30px;
+	padding:0 0 1px 10px;
+	margin-top:11px;
+	border:2px solid #e3101e;
+}
+.shopping_car .carlink{
+	display:inline;
+	zoom:1;
+}
+.shopping_car .carlink .tips{
+	display:inline;
+	zoom:1;
+	margin-top:1px;
+}
+.shopping_car .tiangele{
+	margin-left:9px;
+}
+.top_type_list .list{
+	filter:alpha(opacity=80);
+	padding:6px 0 0 15px;
+	height:29px;
+}
+.content_top_box{
+	zoom:1;
+	display:inline;
+	overflow: hidden;
+}
+.newside{
+	position:absolute;
+	height:450px;
+	right:72px;
+	top:241px;
+}
+.gome_top_news{
+	position:relative;
+	width:250px;
+	height:450px;
+}
+.may_button_group{
+	display:inline;
+	zoom:1;
+	width: 7px;
+    height: 16px;
+    margin-top: 14px;
+}
+.top_type_list{
+	height: 451px;
+	background-color:#474747;
+}
+.top_type_list .list li a{
+	line-height:14px;
+	margin-right:7px;
+}
+.gome_banner_content{
+	margin-top:-10px;
+	overflow:hidden;
+}
+.top_type_list {
+    margin-top: -1px;
+    height:450px;
+    /*background-color:#0CC65B;*/
+    overflow: hidden;
+}
+.banner_pic{
+	height:448px;
+}
+.top_type_list li a:hover{
+	background-color:red;
+	filter:alpha(opacity=80);
+}
+.list li{
+	width:180px;
+	margin:0 -10px 11px 0;
+}
+.type .no_mb{
+	margin-bottom:2px;
+}
+.news_group{
+    padding: 13px 0 7px 19px;
+}
+.news_detail .news_main{
+    margin:0 0 10px 19px;
+}
+.news_detail .no_mb{
+	margin-bottom:9px;
+}
+.gome_news_more a{
+	font-size:13px;
+	line-height:15px;
+}
+.gome_news_title{
+	line-height:20px;
+}
+.news_main a{
+	line-height:26px;
+}
+.news_main a {
+    float:left;
+    font: 12px/14px "新宋体";
+}
+.news_type_line{
+	padding:4px 0 0;
+}
+.spirite_ad .ad_box a{
+	display:inline;
+	zoom: 1;
+}
+.content_top_box .nav a{
+	line-height:46px;
+}
+.gome_banner_may a{
+	font-size:20px;
+	line-height:48px;
+}
+.may_botton_up, .may_botton_down{
+	display: block;
+    width: 7px;
+    height: 4px;
+    margin-bottom:-10px;
+}
+.gome_top_news{
+	width:1200px;
+}
+.banner_ad_text_info .text a{
+	font-size:12px;
+	line-height:32px;
+	width:74px;
+}
+.banner_ad_text_info .text .line{
+	margin-top:2px;
+	filter:alpha(opacity=40);
+}
+.banner_ad_text_info .text .finance{
+	width:72px;
+}
+.bg{
+	filter:alpha(opacity=40);
+}
+.main_top_sale a{
+	display:inline;
+	zoom:1;
+}
+.top_type_group{
+	margin-top:3px;
+}
+.selection_leader{
+	display:inline;
+	zoom:1;
+}
+.selection_leader .main_top_sale{
+	margin-left:-16px;
+}
+.pic_box .text .title{
+	font-size:20px;
+	line-height:22px;
+	font-family:"微软雅黑";
+}
+.detail_sale_group{
+	width:499px;
+	height:558px;
+}
+.detail_sale_group li{
+	width:249px;
+}
+.finance_box .third_box .icon, .finance_box .fourth_box .icon{
+	display:inline;
+	zoom:1;
+}
+.third_box .click, .fourth_box .click{
+	display:inline;
+	zoom:1;
+	padding:7px 53px 2px 54px;
+}
+.finance_box .third_box{
+	display:inline;
+	zoom:1;
+}
+.finance_box .fourth_box{
+	display:inline;
+	zoom:1;
+}
+.more_pic{
+	margin-top:0;
+}
+.perhaps{
+	margin:1px 0 0 -6px;
+	background-position:0 -111px;
+}
+.main_top_perhaps .main_top_title .perhaps{
+	display:inline;
+	zoom:1;
+	vertical-align:top;
+	overflow:hidden;
+}
+.main_top_perhaps .more_pic {
+    display:inline;
+	zoom:1;
+    width: 8px;
+    height: 10px;
+    vertical-align:top;
+    overflow:hidden;
+}
+.perhaps_box{
+	margin-top:9px;
+}
+.main_top_perhaps .main_top_title{
+	padding-top:8px;
+}
+.main_top_perhaps .more_select{
+	font-size:12px;
+	line-height:34px;
+	padding-top:8px;
+}
+.mobile_head .main_head{
+	line-height:24px;
+}
+.mobile_img .img_main {
+    left:0;
+    bottom:-262px;
+}
+.mobile_head .mobile_text .text_box a{
+	line-height:16px;
+}
+.main_middle{
+	margin-top:27px;
+}
+.cellphone_box .text_box .title{
+	line-height:22px;
+}
+.cellphone_box .text_box .detail{
+	margin-top:5px;
+}
+.cellphone_box .text_box{
+	top: 21px;
+    left:18px;
+}
+.lead .service{
+	padding:13px 0 9px 20px;
+}
+.lead .service a{
+	margin-right:30px;
+}
+.lead .surprise{
+	padding:12px 55px 0 20px;
+}
+.lead .surprise a{
+	line-height:27px;
+}
+.surprise .sur-left{
+	width:60px;
+}
+.surprise .sur-right{
+	width:48px;
+}
+.mobile_main .detail_sale_group{
+	height:478px;
+}
+.mobile_main .detail_sale_group li{
+	width:209px;
+}
+.mobile_main{
+	overflow:hidden;
+}
+.mobile_main .detail_sale_group_another .narrow{
+	width:189px;
+}
+.apple .tag-a .apple{
+	display:inline;
+	zoom:1;
+	width:89px;
+	height:30px;
+	vertical-align:top;
+}
+.samsung .tag-c .samsung{
+	display:inline;
+	zoom:1;
+	width:97px;
+	height:30px;
+	vertical-align:top;
+}
+.oppo .tag-e .oppo,.virus .tag-j .virus{
+	display:inline;
+	zoom:1;
+	width:100px;
+	height:30px;
+	vertical-align:top;
+}
+.huawei .tag-b .huawei{
+	display:inline;
+	zoom:1;
+	width:81px;
+	height:30px;
+	vertical-align:top;
+}
+.mi .tag-d .mi{
+	display:inline;
+	zoom:1;
+	width:85px;
+	height:30px;
+	vertical-align:top;
+}
+.meizu .tag-f .meizu, .vivo .tag-i .vivo{
+	display:inline;
+	zoom:1;
+	width:90px;
+	height:30px;
+	vertical-align:top;
+}
+.honor .tag-g .honor{
+	display:inline;
+	zoom:1;
+	width:95px;
+	height:30px;
+	vertical-align:top;
+}
+.le .tag-h .le{
+	display:inline;
+	zoom:1;
+	width:80px;
+	height:30px;
+	vertical-align:top;
+}
+.home_main .home_text .home_img{
+    left: 0;
+    bottom: -481px;
+}
+.img_main .text_info .click{
+	display:inline;
+	zoom:1;
+	padding:3px 2px 0 3px;
+}
+.img_main .text_info .detail{
+	margin:6px 0 18px 0;
+}
+.img_box .img_box_text .click{
+	display:inline;
+	zoom:1;
+	padding:4px 22px 2px 11px;
+}
+.sale_main{
+	margin:0;
+	width:705px;
+	height:196px;
+}
+.main_bottom .shaidan_main{
+	height:215px;
+	width:417px;
+	padding-top:1px;
+	margin:-11px 0 0 -1px;
+	border:1px solid #e6e6e6;
+}
+.main_bottom .shaidan .shaidan_head{
+	margin-bottom:12px;
+}
+.main_bottom .shaidan .shaidan_head .more{
+	padding-bottom:15px;
+	margin-right:8px;
+}
+.shaidan_head .more a {
+    background: url(../img/shaidantriangle.jpg) 100px 0 no-repeat;
+}
+.shaidan_head .more{
+	margin-top:-20px;
+}
+.shaidan .pic{
+	padding:20px 0px 0 44px;
+}
+.main_bottom .recycle_group{
+	font-weight:bold;
+	font-size:18px;
+	line-height:70px;
+}
+.recycle_group .name{
+	display:inline;
+	zoom:1;
+	margin-top:3px;
+}
+.comment .icon {
+    display:inline;
+	zoom:1;
+    width: 32px;
+    height:32px;
+    vertical-align:top;
+    margin-right: 12px;
+    overflow: hidden;
+}
+.foot{
+	margin-left:-74.5px;
+	width:1349px;
+}
+.foot_top{
+	width:988px;
+	overflow:hidden;
+}
+.banner_pic {
+	background-color:#0000FF;
+}
+.foot_top .icon{
+	display:inline;
+	zoom:1;
+}
+.foot_top_code .icon{
+	display:inline;
+	zoom:1;
+}
+.foot_top_detail{
+	width:1000px;
+}
+.foot_top_detail_up a{
+	line-height:14px;
+	margin:0 14px 12px 0;
+}

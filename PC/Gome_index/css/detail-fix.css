@@ -1,0 +1,97 @@
+.gome_head_right .mobile, .gome_head_right .service{
+	padding-top:2px;
+}
+.gome_head_right .line{
+	font-size:8px;
+	float:left;
+	width:1px;
+	background-color:#e6e6e6;
+	margin:10px 10px 0 0;
+}
+.triangle{
+	padding:10px 0 0 6px;
+	margin-left:-7px;
+}
+.gome_head_left a, .gome_head_right a{
+	line-height:36px;
+}
+.mobile .imgtriangle{
+	padding-top:6px;
+}
+.service .imgtriangle{
+	padding-top:7px;
+}
+.gome_head_right .net{
+	margin-left:4px;
+}
+.second .service{
+	padding-top:3px;
+}
+.gome_head_right .my_gome{
+	margin-left:13px;
+}
+.content-up{
+	width:1209px;
+}
+.gome_title a{
+	display:inline;
+	zoom:1;
+}
+.serial .detail span{
+	font:12px/14px "宋体";
+}
+.serial .number span{
+	font:12px/14px "宋体";
+}
+.detail_main_middle-1 .mobile_img{
+	height:358px;
+}
+.detail_main_middle-1 .page_box{
+	height:64px;
+	width:360px;
+}
+.page_box .page_box_nextpage{
+    margin:-3px 4px 0  0;
+}
+.detail_main_middle-1 .other{
+	width:360px;
+	height:30px;
+}
+.detail_main_middle-1 .other .compare_others{
+	width:50px;
+	height:30px;
+}
+.detail_main_middle-1 .others .compare_others{
+	margin-left:-4px;
+}
+.detail_main_middle-1 .others .compare_others .word{
+	padding-top:3px;
+	margin-left:-4px;
+}
+.detail_main_middle-1 .others .line{
+	font-size:8px;
+}
+.detail_main_middle-1 .others .money .bottom{
+	margin-top:-6px;
+}
+.detail_main_middle-1 .others .share{
+	padding:15px 0 0 4px;
+}
+.detail_main_middle-2 .price_box{
+	width:620px;
+}
+.detail_main_middle-2 .combine{
+	width:620px;
+	padding:12px 0 10px;
+}
+.detail_main_middle-2 .color, .detail_main_middle-2 .edition, .detail_main_middle-2 .submit_box{
+	width:620px;
+}
+.detail_main_middle-2 .submit_box .loan_wishes{
+    margin: 13px 2px 0 0px;
+	background-color:palegreen;   
+}
+.detail_main_middle-2 .submit_box .icon{
+	display:inline;
+	zoom:1;
+}

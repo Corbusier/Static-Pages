@@ -1,0 +1,59 @@
+html{
+	height:100%;
+	overflow:hidden;
+}
+body{
+	height: 100%;
+	margin: 0;
+	overflow: auto;
+}
+.head{
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:7.5rem;
+	background-color: #009ff0;
+}
+.content{
+	margin-top:7.5rem;
+	margin-bottom: 7.5rem;
+	overflow: auto;
+}
+.foot{
+	position:absolute;
+	left:0;
+	bottom:0;
+	width:100%;
+	height:7.5rem;
+	background-color: #f3f5f6;
+	border-top:1px solid #d3dde3;
+}
+/*------------------------------------------------------头部区域*/
+.h-scan{
+	float:left;
+	width:8.8rem;
+	height:7.5rem;
+	background:url(../img/scan.png) no-repeat 2.1rem 1.25rem;
+	background-size: 3.9rem 4.85rem;
+}
+.h-form{
+	margin-top:1.2rem;
+	float: left;
+	position: relative;
+}
+.h-search{
+	float:left;
+	border:none;
+	width:36.25rem;
+	height:5.1rem;
+	background:#a0dbf9;
+	border-radius:0.35rem;
+}
+.h-message{
+	float:right;
+	width:8.8rem;
+	height:7.5rem;
+	background:url(../img/message.png) no-repeat 3.3rem 1.15rem;
+	background-size: 3rem 5rem;
+}
